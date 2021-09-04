@@ -10,6 +10,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -45,6 +46,12 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+### What I learned
+
+- How to use Flexbox 
+- Mediaqueries 
+- hover states 
 
 ## Author
 
